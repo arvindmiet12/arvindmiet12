@@ -11,7 +11,7 @@ Email Me 👉 ✉️ arvindmiet12@gmail.com For Collaboration/Project or Anythin
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: Enter your email here
 😄 Pronouns: Imran Sir
-⚡ Fun fact: I Love Tech and Tech Love Me
+⚡ Fun fact: I Love Tech
 
 
 ## 🌐 Socials:
