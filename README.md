@@ -4,12 +4,12 @@
 
 Email Me 👉 ✉️ arvindmiet12@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Enter your project info here
-🌱 I’m currently learning: Python, LangChain, LineGraph 
-👯 I’m looking to collaborate on: Enter your project name and info
-🤔 I’m looking for help with: Your project here
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: Enter your email here
+🔭 I’m currently working on: Building web applications and RESTful APIs using C#, ASP.NET Core, SQL Server, and Python. Exploring projects like Trading Journals, Employee Management Systems, and AI-powered applications
+🌱 I’m currently learning: Python, LangChain, LangGraph, Generative AI, and AI-powered application development
+👯 I’m looking to collaborate on: Open-source projects involving .NET Core, C#, SQL Server, Python, FastAPI, React, and AI/LLM-based applications.
+🤔 I’m looking for help with: Building scalable applications, integrating AI into real-world projects, designing efficient database architectures, and exploring best practices in software development.
+💬 Ask me about: C#, .NET Core, ASP.NET MVC, Web API, SQL Server, Entity Framework, Python, FastAPI, REST APIs, and software development.
+📫 How to reach me: arvindmiet12@gmail.com
 😄 Pronouns: Imran Sir
 ⚡ Fun fact: I Love Tech
 
