@@ -11,7 +11,7 @@ Email Me 👉 ✉️ arvindmiet12@gmail.com For Collaboration/Project or Anythin
 💬 Ask me about: C#, .NET Core, ASP.NET MVC, Web API, SQL Server, Entity Framework, Python, FastAPI, REST APIs, and software development.
 📫 How to reach me: arvindmiet12@gmail.com
 😄 Pronouns: Arvind Kumar
-⚡ Fun fact: I Love Tech
+⚡ Fun fact: I love technology, learning new skills, solving real-world problems, and turning ideas into working applications!
 
 
 ## 🌐 Socials:
