@@ -10,7 +10,7 @@ Email Me 👉 ✉️ arvindmiet12@gmail.com For Collaboration/Project or Anythin
 🤔 I’m looking for help with: Building scalable applications, integrating AI into real-world projects, designing efficient database architectures, and exploring best practices in software development.
 💬 Ask me about: C#, .NET Core, ASP.NET MVC, Web API, SQL Server, Entity Framework, Python, FastAPI, REST APIs, and software development.
 📫 How to reach me: arvindmiet12@gmail.com
-😄 Pronouns: Imran Sir
+😄 Pronouns: Arvind Kumar
 ⚡ Fun fact: I Love Tech
 
 
